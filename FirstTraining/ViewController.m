@@ -29,7 +29,7 @@
 
 -(NSInteger)numberOfSectionsInCollectionView:(UICollectionView *)collectionView
 {
-    return 6;
+    return 4;
 }
 
 -(NSInteger)collectionView:(UICollectionView *)view numberOfItemsInSection:(NSInteger)section
